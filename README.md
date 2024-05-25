@@ -57,11 +57,10 @@
 ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 
-## 💌 SNS
 
 ## 💌 SNS
-[![TIBLOG](https://img.shields.io/badge/TIBLOG-Yellow?style=for-the-badge&logo=TISTORY&logoColor=09B3AF)](https://problem-child.tistory.com/)
-[![NaverBlog](https://img.shields.io/badge/NaverBlog-Green?style=for-the-badge&logo=Naver&logoColor=03C75A)](https://blog.naver.com/juniel1299)
+[![TIBLOG](https://img.shields.io/badge/TIBLOG-white?style=for-the-badge&logo=TISTORY&logoColor=black)](https://problem-child.tistory.com/)
+[![NaverBlog](https://img.shields.io/badge/NaverBlog-white?style=for-the-badge&logo=Naver&logoColor=03C75A)](https://blog.naver.com/juniel1299)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kkhw1202@gmail.com)
 
 ---
