@@ -59,11 +59,10 @@
 
 
 ## 💌 SNS
-[![TIBLOG](https://img.shields.io/badge/TIBLOG-white?style=for-the-badge&logo=TISTORY&logoColor=black)](https://problem-child.tistory.com/) <span>Engineering Blog</span>
-
-[![NaverBlog](https://img.shields.io/badge/NaverBlog-white?style=for-the-badge&logo=Naver&logoColor=03C75A)](https://blog.naver.com/juniel1299) <span>etc Blog</span>
-
+[![TIBLOG](https://img.shields.io/badge/TIBLOG-white?style=for-the-badge&logo=TISTORY&logoColor=black)](https://problem-child.tistory.com/) Engineering Blog
+[![NaverBlog](https://img.shields.io/badge/NaverBlog-white?style=for-the-badge&logo=Naver&logoColor=03C75A)](https://blog.naver.com/juniel1299) etc Blog
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kkhw1202@gmail.com)
+
 
 ---
 
